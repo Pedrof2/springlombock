@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LiveLombockApplication<live-lombock>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "expertostech_dio.live_lombock.LiveLombockApplication",
+            "projectName": "live-lombock",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
